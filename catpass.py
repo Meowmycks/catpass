@@ -1,5 +1,4 @@
 #! /usr/bin/python3
-# coding = latin-1
 
 from Crypto.Cipher import AES
 from Crypto.Hash import SHA256
