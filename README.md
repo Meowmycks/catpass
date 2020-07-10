@@ -11,4 +11,4 @@ Finally, you exit the program and save your passwords.
 To access them again, use the passphrase you created the first time to decrypt your passwords.
 
 Maybe don't use this in the real world?
-Unless you don't mind the missing convenience that actual password managers like Dashlane provides.
+Unless you don't mind the lack-of-convenience that actual password managers like Dashlane provide.
